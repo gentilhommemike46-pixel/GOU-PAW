@@ -7,7 +7,7 @@ GOU PAW  est créée pour commander de la nourriture en ligne.
 
 - Parcourir les plats (liste + recherche + filtres)
 
- -Ajouter au panier
+- Ajouter au panier
 
 - Passer commande (formulaire + paiement en ligne)
 
@@ -17,7 +17,7 @@ GOU PAW  est créée pour commander de la nourriture en ligne.
 
 - Suivi de commande en temps réel
 
- Notifications (push / email) sur le statut de commande
+ - Notifications (push / email) sur le statut de commande
 # WOULD BE NICE TO HAVE
 - Programme de fidélité / points
 
