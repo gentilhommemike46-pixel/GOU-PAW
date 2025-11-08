@@ -1,17 +1,28 @@
 # GOU-PAW
 ## App description
-GOU PAW  est créée pour commander de la nourriture en ligne
-#    MUST HAVE
-Critères d’acceptation :
+GOU PAW  est créée pour commander de la nourriture en ligne.
 
-Le client peut consulter la liste des restaurants ou vendeurs disponibles.
+# MUST HAVE
+ Création / connexion de compte utilisateur
 
-Le client peut voir les détails de chaque plat (photo, description, prix).
+ Parcourir les plats (liste + recherche + filtres)
 
-Le client peut ajouter un ou plusieurs plats à son panier.
+ Ajouter au panier
 
-Le client peut valider sa commande et effectuer un paiement sécurisé.
+ Passer commande (formulaire + paiement en ligne)
 
-Une confirmation de commande est envoyée par notification ou e-mail.
+ Recevoir confirmation de commande
+# MAYBE HAVE
+ Voir détails d’un plat (photo, prix, description)
 
-Le vendeur reçoit la commande pour la préparer.
+ Suivi de commande en temps réel
+
+ Notifications (push / email) sur le statut de commande
+# WOULD BE NICE TO HAVE
+ Programme de fidélité / points
+
+ Recommandations personnalisées
+
+ Chat de support / contact livreur
+
+ Système d’avis et de notation
