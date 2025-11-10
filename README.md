@@ -1,6 +1,7 @@
 # GOU-PAW
 ## App description
 GOU PAW  est créée pour commander de la nourriture en ligne.
+<br>
 <img src="https://github.com/gentilhommemike46-pixel/GOU-PAW/blob/main/GouPaw-ezgif.com-video-to-gif-converter.gif" width=100><br>
 # MUST HAVE
 - Création / connexion de compte utilisateur
